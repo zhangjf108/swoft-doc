@@ -12,7 +12,7 @@ Modern High performance AOP and Coroutine PHP Framework, base on Swoole 2
 
 ## languages
 
-- [简体中文][./zh-CN]
+- [简体中文](./zh-CN)
 - More ...
 
 ## LICENSE
